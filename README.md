@@ -1,4 +1,6 @@
 # display-all-password-onsite-passwords
 This bookmarklet allows you to see every password, on the current page. 
 
-You can certainly abuse this on websites that don't have 2fa. Some good ones are:
+(requires victim to screenshare or show their screen.)
+
+You can certainly abuse this on websites that don't have 2fa. Some good ones are: https://stripe.com/ https://www.roblox.com (you can act like your buying a ROBLOX account, and tell them to disable 2step, logout, login, but before they login put the bookmarklets code.
