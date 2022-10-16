@@ -1,0 +1,1 @@
+javascript:(function(){var b,a,d=document.getElementsByTagName("input"),c=[];for(b in d)if(a=d[b],a.type&&a.type.toLowerCase()==="password"&&a.value)try{a.type="text"}catch(e){c.push(a.value)}c.length&&(b=c.join("\n"),alert("Found passwords! They are:\n"+b))})()
